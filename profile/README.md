@@ -25,7 +25,7 @@ PicsArt Mod APK is a modified version of the original PicsArt app. It unlocks pr
 Follow these steps to download and install PicsArt Mod APK on your Android device:
 
 1. **Enable Unknown Sources:** Go to `Settings > Security` and enable "Unknown Sources" to allow installation from third-party sources.
-2. **Download from a Trusted Source:** Visit a reliable website like [Website Name] to download the APK file.
+2. **Download from play store:** Visit a reliable website like play store to download the picsart.
 3. **Install the APK:** Locate the downloaded file and tap on it to begin the installation process.
 4. **Open and Enjoy:** Once installed, open the app and start using all the premium features for free.
 
